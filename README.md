@@ -18,7 +18,7 @@ the analysis focused on answering 4 main questions:
 - As a **BULK INSERT** was used, the table was first created ensuring that the column names and table format were congruent with the csv format.
 - Once the data was extracted and loaded into the database the analysis took place.
 
-The techniqiues used throughout this project include:
+The more complex techniqiues used throughout this project include:
 - Aggregate functions: MAX, COUNT
 - BULK INSERT
 - Window Functions: RANK() 
