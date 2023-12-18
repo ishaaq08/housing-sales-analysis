@@ -17,7 +17,7 @@ bedrooms INT
 	-- BULK insert
 
 BULK INSERT housing_sales
-FROM 'C:\raw_sales.csv'
+FROM 'C:\Users/mibai/SQL/portfolio-projects/housing-sales-analysis/raw_sales.csv'
 WITH
 (
         FORMAT='CSV',
